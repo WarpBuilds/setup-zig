@@ -1,13 +1,13 @@
 {
   "name": "setup-zig",
   "description": "Use the zig compiler in your Github Action",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "author": "Renée Kooi <renee@kooi.me>",
   "bugs": {
     "url": "https://github.com/goto-bus-stop/setup-zig/issues"
   },
   "dependencies": {
-    "@actions/cache": "npm:github-actions.warp-cache@1.1.16",
+    "@actions/cache": "npm:github-actions.warp-cache@1.4.5",
     "@actions/core": "^1.2.2",
     "@actions/tool-cache": "^2.0.1",
     "semver": "^7.1.3",
